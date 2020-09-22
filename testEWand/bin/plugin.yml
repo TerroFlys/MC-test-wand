@@ -1,0 +1,8 @@
+main: me.terroFlys.testEWand.Main
+name: TestEWand
+version: 1.0
+author: TerroFlys
+
+commands:
+  wand:
+  
